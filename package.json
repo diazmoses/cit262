@@ -1,0 +1,22 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "example nodejs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazmoses/cit262.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "moses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diazmoses/cit262/issues"
+  },
+  "homepage": "https://github.com/diazmoses/cit262#readme"
+}
